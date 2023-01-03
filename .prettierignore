@@ -1,0 +1,5 @@
+build
+dist
+coverage
+src/stories/assets
+_gen

@@ -1,0 +1,15 @@
+**/*.js
+**/*.json
+**/*.svg
+**/*.css
+**/*.mdx
+**/*.d.ts
+scripts/*
+config/*
+src/stories/assets
+.eslintrc.cjs
+**/*.test.tsx
+**/*.test.ts
+node_modules
+**/*.md
+**/_gen/**/*
